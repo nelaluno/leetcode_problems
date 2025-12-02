@@ -20,11 +20,8 @@ class Solution:
         prev = 0
         for ind in range(len(line_counts)-1, 0, -1):
             summs[ind-1] = prev + line_counts[ind]
-            # if result > module:
-            #     result = result % module
             prev = summs[ind-1]
 
-        print(summs)
         for ind, count in enumerate(line_counts):
             result += count * summs[ind]
 
