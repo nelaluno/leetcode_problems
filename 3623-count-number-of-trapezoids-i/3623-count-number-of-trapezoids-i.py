@@ -19,7 +19,7 @@ class Solution:
         prev = 0
         for ind in range(len(line_counts)-1, -1, -1):
             result += line_counts[ind] * prev
-            prev = prev + line_counts[ind]
+            prev += + line_counts[ind]
 
             if result > module:
                 result = result % module
