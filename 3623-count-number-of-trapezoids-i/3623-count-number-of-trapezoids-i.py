@@ -16,14 +16,10 @@ class Solution:
 
         result = 0
         module = 10**9 + 7
-        summs = [0] * len(line_counts)
         prev = 0
-        for ind in range(len(line_counts)-1, 0, -1):
-            summs[ind-1] = prev + line_counts[ind]
-            prev = summs[ind-1]
-
-        for ind, count in enumerate(line_counts):
-            result += count * summs[ind]
+        for ind in range(len(line_counts)-1, -1, -1):
+            result += line_counts[ind] * prev
+            prev = prev + line_counts[ind]
 
             if result > module:
                 result = result % module
