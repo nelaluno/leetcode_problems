@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
+| [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Tree
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nelaluno/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
