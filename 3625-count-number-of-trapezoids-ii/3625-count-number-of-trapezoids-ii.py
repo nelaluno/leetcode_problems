@@ -16,18 +16,14 @@ class Solution:
             for x2, y2 in points[ind+1:]:
                 x_diff = (x2 - x1)
                 if x_diff:
-                    # y_diff = dy
                     cur_slope = (y2 - y1) / x_diff
-                    # curr_b = (y1 * dx - x1 * dy) / dx
                 else:
                     cur_slope = float('inf')
-                    # curr_b = x1
                 slopes[cur_slope].append(((x1, y1), (x2, y2)))
 
                 mid = (x1 + x2) * 10000 + (y1 + y2)
                 mid_to_slope[mid].append(cur_slope)
         
-        # print(slopes)
         result = 0
         for slope, lines in slopes.items():
             if len(lines) < 2:
@@ -42,15 +38,12 @@ class Solution:
                     b = (y1 * x_diff - x1 * (y1 - y2)) / x_diff
                 else:
                     b = x1
-                # print(b, ((x1, y1), (x2, y2)))
                 b_sorted_line_counts[b] += 1
 
             if all([count == 1 for b, count in b_sorted_line_counts.items()]):
-                # print(slope, "comb_count", len(lines))
                 result += comb_count(len(lines))
                 continue
 
-            # print(slope, b_sorted_line_counts)
             prev = 0
             for b in b_sorted_line_counts:
                 result += b_sorted_line_counts[b] * prev
