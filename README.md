@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nelaluno/leetcode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
+| [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Backtracking
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
