@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
