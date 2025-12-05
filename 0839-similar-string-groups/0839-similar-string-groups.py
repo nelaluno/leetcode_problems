@@ -1,6 +1,5 @@
 class Solution:
     def numSimilarGroups(self, strs: List[str]) -> int:
-        result = 0
         s_len = len(strs[0])
         group = -1
         links = [None] * len(strs)
@@ -30,7 +29,6 @@ class Solution:
                             links[i1] = group
                         else:
                             links[i1] = links[i2]
-                    # print(links)
 
         single_count = 0
         for l in links:
