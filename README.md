@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
