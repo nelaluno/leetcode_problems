@@ -24,7 +24,5 @@ class Solution:
                         break
 
                     asteroids[collision_ind] = 0
-            # else: #right
-            #     pass
         
         return [a for a in asteroids if a]
