@@ -7,9 +7,13 @@ class Solution:
         for i1, s1 in enumerate(strs):
             for i2, s2 in enumerate(strs[i1+1:], start=i1+1):
                 diff_count = 0
+
                 for k in range(s_len):
                     if s1[k] != s2[k]:
                         diff_count += 1
+                        if diff_count > 2:
+                            break
+                
                 if diff_count < 3:
                     if links[i1] is not None:
                         if links[i2] is None:
