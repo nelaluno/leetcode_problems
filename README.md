@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/nelaluno/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/nelaluno/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
