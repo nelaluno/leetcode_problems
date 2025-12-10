@@ -12,7 +12,7 @@ class Solution:
         result = 0
         for i in range(n-1, 0, -1):
             op = next(operations)
-            print(result, first_prev, op, i)
+            # print(result, first_prev, op, i)
             if op in self.first_functions:
                 first_prev = self.first_functions[op](first_prev, i)
             elif op == "+":
