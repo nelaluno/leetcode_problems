@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/nelaluno/leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Prefix Sum
 |  |
 | ------- |
