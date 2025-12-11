@@ -8,27 +8,22 @@ class Solution:
 
         if n < 3:
             return 0
+        
+        x_min = defaultdict(lambda: float('inf'))
+        x_max = defaultdict(int)
 
-        x_sorted = defaultdict(list)
         y_min = defaultdict(lambda: float('inf'))
         y_max = defaultdict(int)
 
-
         for x, y in buildings:
-            x_sorted[x].append(y)
+            x_min[x] = min(x_min[x], y)
+            x_max[x] = max(x_max[x], y)
             y_min[y] = min(y_min[y], x)
             y_max[y] = max(y_max[y], x)
 
         count = 0
-        for x in x_sorted:
-            if len(x_sorted) < 3:
-                continue
-            x_sorted[x] = sorted(x_sorted[x])
-
-            # first and last y are not covered
-            for i in range(1, len(x_sorted[x])- 1):
-                
-                y = x_sorted[x][i]
-                if x > y_min[y] and x < y_max[y]:
+        for x, y in buildings:
+            if x > y_min[y] and x < y_max[y]:
+                if y > x_min[x] and y < x_max[x]:
                     count += 1
         return count
