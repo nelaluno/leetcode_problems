@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nelaluno/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nelaluno/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1006-clumsy-factorial](https://github.com/nelaluno/leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nelaluno/leetcode_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
