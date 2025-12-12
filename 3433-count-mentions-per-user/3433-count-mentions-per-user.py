@@ -1,12 +1,10 @@
 from collections import defaultdict
-import numpy as np
 
 class Solution:
     def countMentions(self, numberOfUsers: int, events: List[List[str]]) -> List[int]:
         events = sorted(events, key=lambda x: (int(x[1]), x[0] != "OFFLINE"))
-        mentions = np.zeros(numberOfUsers, dtype=np.uint32)
-        online = np.ones(numberOfUsers, dtype=np.uint32)
-        all_users = np.ones(numberOfUsers, dtype=np.uint32)
+        mentions = [0] * numberOfUsers
+        online = [1] * numberOfUsers
         online_events = [] # timepstamp (int), users (list)
         
         for ev_name, timestamp, users in events:
@@ -18,9 +16,12 @@ class Solution:
 
             if ev_name == "MESSAGE":
                 if users == "HERE":
-                    mentions += online
+                    for i in range(numberOfUsers):
+                        if online[i]:
+                            mentions[i] += 1
                 elif users == "ALL":
-                    mentions += all_users
+                    for i in range(numberOfUsers):
+                        mentions[i] += 1
                 else:
                     for u_id in users.split(" "):
                         mentions[int(u_id[2:])] += 1
@@ -30,6 +31,4 @@ class Solution:
                 for i in offline_users:
                     online[i] = 0
 
-        return mentions.tolist()
-
-
+        return mentions
