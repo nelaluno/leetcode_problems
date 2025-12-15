@@ -9,7 +9,6 @@ class Solution:
             else:
                 output += (cur_len) * (cur_len - 1) // 2
                 cur_len = 1
-            # print(prev, p, cur_len, output)
             prev = p
 
         if cur_len > 1:
