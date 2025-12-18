@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/nelaluno/leetcode_problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Union Find
 |  |
 | ------- |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 <!---LeetCode Topics End-->
