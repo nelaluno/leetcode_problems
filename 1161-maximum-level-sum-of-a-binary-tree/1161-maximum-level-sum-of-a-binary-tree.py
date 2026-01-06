@@ -11,7 +11,7 @@ class Solution:
         cur_lvl = 1
         
         level = [root]
-        while level:
+        while True:
             new_level = []
             cur_sum = 0
             
@@ -21,11 +21,14 @@ class Solution:
                     new_level.append(node.left)
                 if node.right:
                     new_level.append(node.right)
-
+        
             if cur_sum > max_lvl_sum:
                 max_lvl_sum = cur_sum
                 max_lvl = cur_lvl
-           
+
+            if not new_level:
+                break
+            
             level = new_level
             cur_lvl += 1
 
