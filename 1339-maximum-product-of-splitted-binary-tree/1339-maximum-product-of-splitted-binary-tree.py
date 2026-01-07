@@ -11,10 +11,6 @@ class Solution:
         tree_sum = node.val
         partial_sum += node.val
 
-        # if it's leaf it can be partial subtree
-        if not node.left and not node.right:
-            self.partials.add(node.val)
-
         if node.left:
             tree_sum += self.get_tree_sum(node.left, partial_sum)
 
