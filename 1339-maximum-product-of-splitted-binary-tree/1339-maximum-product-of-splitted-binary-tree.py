@@ -13,7 +13,7 @@ class Solution:
         left_only = node.left and not node.right
         right_only = not node.left and node.right
 
-        if is_partial:#left_only or right_only:
+        if is_partial:
             self.partials.add(partial_sum)
 
         # if it's leaf it can be partial subtree
@@ -27,19 +27,14 @@ class Solution:
             tree_sum += self.get_tree_sum(node.right, partial_sum, is_partial=is_partial and right_only)
 
         self.partials.add(tree_sum)
-        # print(node.val, self.partials)
         return tree_sum
 
     def maxProduct(self, root: Optional[TreeNode]) -> int:
         self.partials = set()
         tree_sum = self.get_tree_sum(root, is_partial=root.left and not root.right or not root.left and root.right)
-        # print(self.partials)
-        # print(tree_sum)
         
         max_product = 0
         for partial in self.partials:
-            # print(partial, (tree_sum - partial))
             product = (partial * (tree_sum - partial))
             max_product = max(max_product, product)
-            # print(product)
         return max_product % MOD
