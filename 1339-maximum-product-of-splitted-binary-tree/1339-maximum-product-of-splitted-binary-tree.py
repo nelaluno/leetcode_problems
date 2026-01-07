@@ -7,29 +7,26 @@
 
 MOD = 10 ** 9 + 7
 class Solution:
-    def get_tree_sum(self, node: Optional[TreeNode], partial_sum=0, is_partial=False) -> int:
+    def get_tree_sum(self, node: Optional[TreeNode], partial_sum=0) -> int:
         tree_sum = node.val
         partial_sum += node.val
-
-        if is_partial:
-            self.partials.add(partial_sum)
 
         # if it's leaf it can be partial subtree
         if not node.left and not node.right:
             self.partials.add(node.val)
 
         if node.left:
-            tree_sum += self.get_tree_sum(node.left, partial_sum, is_partial=is_partial and not node.right)
+            tree_sum += self.get_tree_sum(node.left, partial_sum)
 
         if node.right:
-            tree_sum += self.get_tree_sum(node.right, partial_sum, is_partial=is_partial and not node.left)
+            tree_sum += self.get_tree_sum(node.right, partial_sum)
 
         self.partials.add(tree_sum)
         return tree_sum
 
     def maxProduct(self, root: Optional[TreeNode]) -> int:
         self.partials = set()
-        tree_sum = self.get_tree_sum(root, is_partial=root.left and not root.right or not root.left and root.right)
+        tree_sum = self.get_tree_sum(root)
         
         max_product = 0
         for partial in self.partials:
