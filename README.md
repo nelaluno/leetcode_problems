@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nelaluno/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nelaluno/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1006-clumsy-factorial](https://github.com/nelaluno/leetcode_problems/tree/master/1006-clumsy-factorial) |
 | [1925-count-square-sum-triples](https://github.com/nelaluno/leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nelaluno/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nelaluno/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 ## Sliding Window
