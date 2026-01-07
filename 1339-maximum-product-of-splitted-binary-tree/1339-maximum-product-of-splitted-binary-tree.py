@@ -7,15 +7,14 @@
 
 MOD = 10 ** 9 + 7
 class Solution:
-    def get_tree_sum(self, node: Optional[TreeNode], partial_sum=0) -> int:
+    def get_tree_sum(self, node: Optional[TreeNode]) -> int:
         tree_sum = node.val
-        partial_sum += node.val
 
         if node.left:
-            tree_sum += self.get_tree_sum(node.left, partial_sum)
+            tree_sum += self.get_tree_sum(node.left)
 
         if node.right:
-            tree_sum += self.get_tree_sum(node.right, partial_sum)
+            tree_sum += self.get_tree_sum(node.right)
 
         self.partials.add(tree_sum)
         return tree_sum
