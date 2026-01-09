@@ -39,5 +39,4 @@ def solve(node, depth=0):
 
 class Solution:
     def subtreeWithAllDeepest(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        max_depth, node = solve(root)
-        return node
+        return solve(root)[1]
