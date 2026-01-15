@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/nelaluno/leetcode_problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nelaluno/leetcode_problems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/nelaluno/leetcode_problems/tree/master/3453-separate-squares-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3433-count-mentions-per-user](https://github.com/nelaluno/leetcode_problems/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/nelaluno/leetcode_problems/tree/master/3531-count-covered-buildings) |
 ## Enumeration
