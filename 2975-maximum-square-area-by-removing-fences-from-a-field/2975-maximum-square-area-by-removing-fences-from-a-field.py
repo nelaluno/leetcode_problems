@@ -1,11 +1,10 @@
 class Solution:
     def get_diffs(self, nums, n):
-        nums.insert(0, 1)
-        nums.append(n)
+        nums.extend([1, n])
 
         diffs = set()
         for i in range(len(nums)):
-            for j in range(i, len(nums)):
+            for j in range(i+1, len(nums)):
                 diffs.add(abs(nums[j] - nums[i]))
         return diffs
 
@@ -16,9 +15,8 @@ class Solution:
         h_diffs = self.get_diffs(hFences, m)
         v_diffs = self.get_diffs(vFences, n)
         
-
         square_sides =  h_diffs.intersection(v_diffs)
-        if not square_sides or square_sides == {0}:
+        if not square_sides:
             return -1
     
         square_sides = max(square_sides)
