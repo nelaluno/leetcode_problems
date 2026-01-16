@@ -1,3 +1,5 @@
+MOD = 10**9 + 7
+
 class Solution:
     def get_diffs(self, nums, n):
         nums.extend([1, n])
@@ -25,6 +27,6 @@ class Solution:
         if not max_sq_side:
             return -1
     
-        return (max_sq_side * max_sq_side) % (10**9 + 7)
+        return (max_sq_side * max_sq_side) % MOD
 
         
