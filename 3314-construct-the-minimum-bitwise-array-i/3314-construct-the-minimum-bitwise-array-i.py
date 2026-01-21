@@ -3,9 +3,10 @@ class Solution:
         result = []
         for num in nums:
             candidate = -1
-            for j in range(1, num):
-                if (j | (j + 1)) == num:
-                    candidate = j
-                    break
+            if num % 2:
+                for j in range(num):
+                    if (j | (j + 1)) == num:
+                        candidate = j
+                        break
             result.append(candidate)
         return result
