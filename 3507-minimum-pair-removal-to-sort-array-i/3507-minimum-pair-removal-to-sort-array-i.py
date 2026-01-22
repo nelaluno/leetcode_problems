@@ -1,5 +1,11 @@
+def is_sorted(nums):
+    for i in range(len(nums) - 1):
+        if nums[i] > nums[i + 1]:
+            return False
+    return True
+
 def get_removal_count(nums):
-    if all(nums[i] <= nums[i+1] for i in range(len(nums) - 1)):
+    if is_sorted(nums):
         return 0
 
     min_sum = float("inf")
