@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nelaluno/leetcode_problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nelaluno/leetcode_problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/nelaluno/leetcode_problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/nelaluno/leetcode_problems/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/nelaluno/leetcode_problems/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/nelaluno/leetcode_problems/tree/master/3453-separate-squares-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/nelaluno/leetcode_problems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nelaluno/leetcode_problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/nelaluno/leetcode_problems/tree/master/3583-count-special-triplets) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3433-count-mentions-per-user](https://github.com/nelaluno/leetcode_problems/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
