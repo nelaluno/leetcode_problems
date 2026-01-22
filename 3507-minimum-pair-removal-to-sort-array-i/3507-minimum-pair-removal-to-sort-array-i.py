@@ -1,5 +1,4 @@
 def get_removal_count(nums):
-    print(nums)
     if all(nums[i] <= nums[i+1] for i in range(len(nums) - 1)):
         return 0
 
