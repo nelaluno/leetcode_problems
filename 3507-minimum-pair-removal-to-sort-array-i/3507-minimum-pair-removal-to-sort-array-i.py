@@ -16,7 +16,6 @@ class Solution:
                     min_sum = cur_sum
                     min_sum_indx = i
                 
-            nums[min_sum_indx]=min_sum
-            nums.pop(min_sum_indx+1)
+            nums = nums[:min_sum_indx] + [min_sum] + nums[min_sum_indx+2:]
             op_count += 1
         return op_count
