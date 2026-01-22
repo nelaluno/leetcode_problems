@@ -11,8 +11,10 @@ def get_removal_count(nums):
         if cur_sum < min_sum:
             min_sum = cur_sum
             min_sum_indx = i
-
-    return 1 + get_removal_count(nums[:min_sum_indx] + [min_sum] + nums[min_sum_indx+2:])    
+    
+    nums[min_sum_indx]=min_sum
+    nums.pop(min_sum_indx+1)
+    return 1 + get_removal_count(nums)    
 
 
 
