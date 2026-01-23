@@ -18,28 +18,36 @@ class Solution:
         while bad>0:
             Sum, i=heapq.heappop(heap)
 
-            if rmv[i] or nxt[i]==-1: continue
+            if rmv[i] or nxt[i]==-1:
+                continue
             j=nxt[i]
-            if rmv[j] or nums[i]+nums[j]!=Sum: continue
+            if rmv[j] or nums[i]+nums[j]!=Sum:
+                continue
 
             pi=prv[i]
             nj=nxt[j]
 
             # remove old violations
-            if pi!=-1 and nums[pi]>nums[i]: bad-=1
-            if nums[i]>nums[j]: bad-=1
-            if nj!=-1 and nums[j]>nums[nj]: bad-=1
+            if pi!=-1 and nums[pi]>nums[i]:
+                bad-=1
+            if nums[i]>nums[j]:
+                bad-=1
+            if nj!=-1 and nums[j]>nums[nj]:
+                bad-=1
 
             # merge
             nums[i]=Sum
             rmv[j]=True
 
             nxt[i]=nj
-            if nj!=-1: prv[nj]=i
+            if nj!=-1:
+                prv[nj]=i
             
             # add new violations
-            if pi!=-1 and nums[pi]>nums[i]: bad+=1
-            if nj!=-1 and nums[i]>nums[nj]: bad+=1
+            if pi!=-1 and nums[pi]>nums[i]: 
+                bad+=1
+            if nj!=-1 and nums[i]>nums[nj]: 
+                bad+=1
 
             # update heap
             if pi!= -1:
