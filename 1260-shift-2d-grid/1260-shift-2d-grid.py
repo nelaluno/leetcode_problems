@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution:
     def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
         n = len(grid)
@@ -10,12 +8,12 @@ class Solution:
         if k == 0:
             return grid
         
-        vector = deque([0] * num)
+        vector = [0] * num
         for i in range(n):
             for j in range(m):
                 vector[m*i + j] = grid[i][j]
 
-        vector.rotate(k)
+        vector = vector[-k:] + vector[:-k]
 
         for i in range(n):
             for j in range(m):
