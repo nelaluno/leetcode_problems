@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nelaluno/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1260-shift-2d-grid](https://github.com/nelaluno/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nelaluno/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nelaluno/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1006-clumsy-factorial](https://github.com/nelaluno/leetcode_problems/tree/master/1006-clumsy-factorial) |
+| [1260-shift-2d-grid](https://github.com/nelaluno/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nelaluno/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/nelaluno/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
