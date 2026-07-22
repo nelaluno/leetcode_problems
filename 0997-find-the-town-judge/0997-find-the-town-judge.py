@@ -5,25 +5,15 @@ class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
         if not trust:
             return -1 if n > 1 else 1
-        
-        trust_lists = defaultdict(list) 
-        potential_judges = set(range(1, n+1))
+
+        trusters, trustees = [0]*n, [0]*n
 
         for a, b in trust:
-            if a in potential_judges:
-                potential_judges.remove(a)
-            trust_lists[a].append(b)
+            trusters[a-1] += 1
+            trustees[b-1] += 1
 
-        if len(trust_lists) != n-1:
-            return -1
-
-        for j in potential_judges:
-            is_judge = True
-            for a, t_list in trust_lists.items():
-                if j not in t_list:
-                    is_judge = False
-                    break
-            if is_judge:
-                return j
-                    
+        for j in range(n):
+            if trusters[j] == 0 and trustees[j] == n-1:
+                return j+1
+        
         return -1
