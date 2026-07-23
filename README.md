@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nelaluno/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nelaluno/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
