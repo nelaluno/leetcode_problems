@@ -1,23 +1,13 @@
-from itertools import combinations
-
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        n = len(nums)
-        bad_starts = set()
+        first_min = sys.maxsize 
+        second_min = sys.maxsize 
+        for n in nums:
+            if n <= first_min:
+                first_min = n
+            elif n <= second_min:
+                second_min = n
+            else:
+                return True
 
-        for i in range(n):
-            if nums[i] in bad_starts:
-                continue
-            
-            i_indxs = {}
-            for j in range(i+1, n):
-                if nums[i] < nums[j]:
-                    if nums[j] not in i_indxs:
-                        i_indxs[nums[j]] = j
-            
-            if len(i_indxs) >= 2:
-                for a, b in combinations(i_indxs.values(), 2):
-                    if nums[a] < nums[b]:
-                        return True
-            bad_starts.add(nums[i])
         return False
