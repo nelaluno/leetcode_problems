@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/nelaluno/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0334-increasing-triplet-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0605-can-place-flowers](https://github.com/nelaluno/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/nelaluno/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/0840-magic-squares-in-grid) |
