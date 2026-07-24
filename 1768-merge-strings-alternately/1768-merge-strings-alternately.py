@@ -7,7 +7,6 @@ class Solution:
             merged[2 * i]  = word1[i]
             merged[2 * i + 1]  = word2[i]
         
-        print(merged)
         if len(word1) > n:
             merged[2*n:] = word1[n:]
         elif len(word2) > n:
