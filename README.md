@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nelaluno/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nelaluno/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nelaluno/leetcode_problems/tree/master/0443-string-compression) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nelaluno/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nelaluno/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nelaluno/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nelaluno/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nelaluno/leetcode_problems/tree/master/0443-string-compression) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1768-merge-strings-alternately](https://github.com/nelaluno/leetcode_problems/tree/master/1768-merge-strings-alternately) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nelaluno/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
