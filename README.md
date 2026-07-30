@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nelaluno/leetcode_problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nelaluno/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nelaluno/leetcode_problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/nelaluno/leetcode_problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nelaluno/leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nelaluno/leetcode_problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/nelaluno/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/nelaluno/leetcode_problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
+| [2352-equal-row-and-column-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/2352-equal-row-and-column-pairs) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3433-count-mentions-per-user](https://github.com/nelaluno/leetcode_problems/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
