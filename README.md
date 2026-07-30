@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/nelaluno/leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nelaluno/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nelaluno/leetcode_problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nelaluno/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nelaluno/leetcode_problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nelaluno/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/nelaluno/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/nelaluno/leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nelaluno/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [3583-count-special-triplets](https://github.com/nelaluno/leetcode_problems/tree/master/3583-count-special-triplets) |
 ## Stack
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1657-determine-if-two-strings-are-close](https://github.com/nelaluno/leetcode_problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nelaluno/leetcode_problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
