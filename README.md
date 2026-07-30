@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/nelaluno/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nelaluno/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nelaluno/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/nelaluno/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nelaluno/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nelaluno/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 ## Matrix
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nelaluno/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nelaluno/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nelaluno/leetcode_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nelaluno/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Linked List
 |  |
