@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nelaluno/leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/nelaluno/leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nelaluno/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/nelaluno/leetcode_problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1732-find-the-highest-altitude](https://github.com/nelaluno/leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nelaluno/leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
