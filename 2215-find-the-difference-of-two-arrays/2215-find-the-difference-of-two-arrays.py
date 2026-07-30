@@ -1,14 +1,8 @@
 class Solution:
     def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
-        answer_1 = set()
-        answer_2 = set()
-
-        for n in nums1:
-            if n not in nums2:
-                answer_1.add(n)
-
-        for n in nums2:
-            if n not in nums1:
-                answer_2.add(n)
-
-        return [list(answer_1), list(answer_2)]
+        answer=[[],[]]
+        set1=set(nums1)
+        set2=set(nums2)
+        answer[0]=list(set1-set2)
+        answer[1]=list(set2-set1)
+        return answer
