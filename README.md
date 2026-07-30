@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nelaluno/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/nelaluno/leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/nelaluno/leetcode_problems/tree/master/1160-letter-tile-possibilities) |
+| [1207-unique-number-of-occurrences](https://github.com/nelaluno/leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/nelaluno/leetcode_problems/tree/master/2107-find-unique-binary-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nelaluno/leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/nelaluno/leetcode_problems/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/nelaluno/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/nelaluno/leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/nelaluno/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nelaluno/leetcode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nelaluno/leetcode_problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
