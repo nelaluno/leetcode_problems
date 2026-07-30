@@ -5,6 +5,9 @@ class Solution:
         counted_nums = defaultdict(int)
         operations = 0
         for num in nums:
+            if num >= k:
+                continue 
+                
             partner = k - num
             if counted_nums[partner]:
                 operations += 1
