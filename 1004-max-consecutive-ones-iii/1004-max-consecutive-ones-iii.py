@@ -24,5 +24,7 @@ class Solution:
                 else:
                     cur_len -= 1
                 first_ind += 1
-                       
+                
+                
+        
         return max_len
