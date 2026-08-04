@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nelaluno/leetcode_problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/nelaluno/leetcode_problems/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/nelaluno/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nelaluno/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nelaluno/leetcode_problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nelaluno/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/nelaluno/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/nelaluno/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/nelaluno/leetcode_problems/tree/master/0649-dota2-senate) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/nelaluno/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/nelaluno/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nelaluno/leetcode_problems/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
