@@ -4,26 +4,30 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import defaultdict
+
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         self.resp_count = 0
+        self.prefix = defaultdict(int)
+        self.prefix[0] = 1
         
-        def collect_pathes(node, path_sums):
-            new_path_sum = path_sums[-1] + node.val
-
-            for path_sum in path_sums:
-                if new_path_sum - path_sum == targetSum:
-                    self.resp_count += 1
-
+        def collect_pathes(node, curr_sum):
+            curr_sum += node.val
+            self.resp_count += self.prefix.get(curr_sum - targetSum, 0)
+            
             if not node.left and not node.right:
                 return
+
+            self.prefix[curr_sum] += 1
             
-            path_sums.append(new_path_sum)
             if node.left:
-                collect_pathes(node.left, path_sums[:])
+                collect_pathes(node.left, curr_sum)
             if node.right:
-                collect_pathes(node.right, path_sums[:])
+                collect_pathes(node.right, curr_sum)
+
+            self.prefix[curr_sum] -= 1
 
         if root:
-            collect_pathes(root, [0])
+            collect_pathes(root, 0)
         return self.resp_count
