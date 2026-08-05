@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/nelaluno/leetcode_problems/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/nelaluno/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nelaluno/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nelaluno/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/nelaluno/leetcode_problems/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/nelaluno/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/nelaluno/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nelaluno/leetcode_problems/tree/master/0437-path-sum-iii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/nelaluno/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/nelaluno/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nelaluno/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/nelaluno/leetcode_problems/tree/master/0113-path-sum-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/nelaluno/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nelaluno/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nelaluno/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
