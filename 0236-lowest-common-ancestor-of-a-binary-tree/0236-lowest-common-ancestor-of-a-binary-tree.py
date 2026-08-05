@@ -8,10 +8,11 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         # self.found = {"p": False, "q": False}
+        self.goals = {p.val, q.val}
         
         def search(node, score_remain=2):
             node_score = 0
-            if node.val in {p.val, q.val}:
+            if node.val in self.goals:
                 node_score = 1
                 if score_remain == node_score:
                     return 2, None
