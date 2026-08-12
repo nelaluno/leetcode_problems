@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nelaluno/leetcode_problems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/nelaluno/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nelaluno/leetcode_problems/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nelaluno/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nelaluno/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/nelaluno/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nelaluno/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/nelaluno/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0839-similar-string-groups](https://github.com/nelaluno/leetcode_problems/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/nelaluno/leetcode_problems/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nelaluno/leetcode_problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/nelaluno/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/nelaluno/leetcode_problems/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/nelaluno/leetcode_problems/tree/master/0997-find-the-town-judge) |
 ## Recursion
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nelaluno/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nelaluno/leetcode_problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
