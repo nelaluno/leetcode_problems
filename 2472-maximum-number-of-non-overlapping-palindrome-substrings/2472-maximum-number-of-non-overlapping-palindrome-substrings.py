@@ -2,9 +2,7 @@
 from collections import defaultdict
 
 def is_palindrome(s, i_start, i_end):
-    # print(s[i_start:i_end])
     for i in range((i_end - i_start + 1) // 2):
-        # print("check:", s[i_start + i], s[i_end - i])
         if s[i_start + i] != s[i_end - i]:
             return False
     return True
@@ -20,7 +18,6 @@ class Solution:
         ch_inds = defaultdict(list)
         double_count = 0
         for i, ch in enumerate(s):
-            # print(ch, i, ch_inds)
             ch_inds[ch].append(i)
             double_count += (len(ch_inds[ch]) % 2 == 0)
             if len(ch_inds[ch]) > 1 and double_count >= min_double_count:
