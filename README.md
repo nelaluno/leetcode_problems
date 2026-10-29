@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/nelaluno/leetcode_problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/nelaluno/leetcode_problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nelaluno/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nelaluno/leetcode_problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nelaluno/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/nelaluno/leetcode_problems/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nelaluno/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/nelaluno/leetcode_problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/nelaluno/leetcode_problems/tree/master/1975-maximum-matrix-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/nelaluno/leetcode_problems/tree/master/2352-equal-row-and-column-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nelaluno/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nelaluno/leetcode_problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/nelaluno/leetcode_problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nelaluno/leetcode_problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
