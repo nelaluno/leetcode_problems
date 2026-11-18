@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/nelaluno/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nelaluno/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nelaluno/leetcode_problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nelaluno/leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/nelaluno/leetcode_problems/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Backtracking
 |  |
